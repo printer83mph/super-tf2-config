@@ -1,6 +1,8 @@
 # Super TF2 Config
 printer83mph
 
+Credit to rbjaxter for BUDHUD!
+
 ## Explanation
 I have so many friends who try to get into Team Fortress 2 but are unable to because the default settings are horrendous. This should make it easier to set up your game for max enjoyment.
 
